@@ -1,0 +1,11 @@
+amazon\uistore\ProductPage.class
+amazon\pageobject\ProductPageObject.class
+amazon\runner\RunTest.class
+utilities\Base.class
+utilities\Screenshot.class
+utilities\WebDriverHelper.class
+utilities\LoggerHandler.class
+amazon\pageobject\HomePageObject.class
+utilities\ExcelReader.class
+utilities\Reporter.class
+amazon\uistore\HomePage.class

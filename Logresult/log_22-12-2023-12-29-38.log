@@ -1,0 +1,7 @@
+2023-12-22 12:29:41,577 +0530 [main] INFO  (LoggerHandler.java:30) - Browser Launched Successed .
+2023-12-22 12:29:42,574 +0530 [main] INFO  (LoggerHandler.java:30) - Application Open Successed .
+2023-12-22 12:29:43,042 +0530 [main] INFO  (LoggerHandler.java:30) - Click on Search Box Successed.
+2023-12-22 12:29:44,340 +0530 [main] INFO  (LoggerHandler.java:30) - Enter Data on Search Box Successed.
+2023-12-22 12:29:46,735 +0530 [main] INFO  (LoggerHandler.java:30) - Click on Search Icon Successed.
+2023-12-22 12:29:47,731 +0530 [main] ERROR (LoggerHandler.java:42) - Verify Search Text "Samsung Mobile" Failed.
+2023-12-22 12:29:47,966 +0530 [main] INFO  (LoggerHandler.java:30) - Browser Closed Successed .
